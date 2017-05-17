@@ -6,7 +6,7 @@ $(call inherit-product, vendor/carbon/config/cdma.mk)
 
 PRODUCT_NAME := carbon_d2spr
 PRODUCT_DEVICE := d2spr
-PRODUCT_MANUFACTURER := LGE
+PRODUCT_MANUFACTURER := Samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=d2spr \
